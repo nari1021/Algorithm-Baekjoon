@@ -1,17 +1,19 @@
+import java.io.*;
 import java.util.*;
-import java.io.IOException;
 
 public class Main10093 {
     public static void main(String[] args) throws IOException {
-        Scanner sc = new Scanner(System.in);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        Long A = sc.nextLong();
-        long B = sc.nextLong();
+        long A = Long.parseLong(st.nextToken());
+        long B = Long.parseLong(st.nextToken());
 
         if (A < B) {
-            System.out.println((B-A-1) + "\n");
+            bw.write((B-A-1) + "\n");
             for (long i = A + 1; i < B; i++) {
-                System.out.println(i + " ");
+                bw.write(i + " ");
             }
         }
         else if (A > B) {
@@ -21,6 +23,8 @@ public class Main10093 {
             }
         }
         else
-            System.out.println("0");
+            bw.write("0");
+
+        br.close(); bw.flush(); bw.close();
     }
 }
