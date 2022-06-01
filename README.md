@@ -1,9 +1,7 @@
 # Algorithm-Baekjoon
-Baekjoon 알고리즘 문제 풀이
 
-바킹독님의 알고리즘 문제집을 기반으로 풀고 있으며,
-언어는 JAVA를 이용하여 풀고있습니다.
+Baekjoon 알고리즘 문제 풀이집
+JAVA 를 이용하여 공부하고 있습니다.
 
-출처 : https://github.com/nari1021/basic-algo-lecture/blob/master/workbook.md
-
-** java class Error :: F1 > Clean Java Language Server Workspace
+문제들은 기존 [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) 로드맵을 따라하다가
+2022.06.01 날짜부터는 [코딩테스트 완벽 정복 로드맵](https://covenant.tistory.com/234)을 활용해서 풀이하고 있습니다.
