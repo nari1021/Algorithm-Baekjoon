@@ -19,7 +19,7 @@
 | 1546      | [평균](https://www.acmicpc.net/problem/1546)          |           |
 | 10818     | [최소, 최대](https://www.acmicpc.net/problem/10818)   | ✅        |
 | 10809     | [알파벳 찻기](https://www.acmicpc.net/problem/10809)  | ✅        |
-| 3460      | [이진수](https://www.acmicpc.net/problem/3460)        |           |
+| 3460      | [이진수](https://www.acmicpc.net/problem/3460)        | ✅        |
 
 ## 1. 프로그래머스 문제
 
