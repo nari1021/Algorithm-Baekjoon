@@ -14,7 +14,7 @@
 | 5598      | [카이사르 암호](https://www.acmicpc.net/problem/5598) |           |
 | 2562      | [최댓값](https://www.acmicpc.net/problem/2562)        | ✅        |
 | 10872     | [팩토리얼](https://www.acmicpc.net/problem/10872)     | ✅        |
-| 1037      | [약수](https://www.acmicpc.net/problem/1037)          |           |
+| 1037      | [약수](https://www.acmicpc.net/problem/1037)          | ✅        |
 | 2576      | [홀수](https://www.acmicpc.net/problem/2576)          | ✅        |
 | 1546      | [평균](https://www.acmicpc.net/problem/1546)          | ✅        |
 | 10818     | [최소, 최대](https://www.acmicpc.net/problem/10818)   | ✅        |
