@@ -11,7 +11,7 @@
 | 2442      | [별 찍기 - 5](https://www.acmicpc.net/problem/2442)   | ✅        |
 | 2443      | [별 찍기 - 6](https://www.acmicpc.net/problem/2443)   | ✅        |
 | 2444      | [별 찍기 - 7](https://www.acmicpc.net/problem/2444)   | ✅        |
-| 5598      | [카이사르 암호](https://www.acmicpc.net/problem/5598) |           |
+| 5598      | [카이사르 암호](https://www.acmicpc.net/problem/5598) | ✅        |
 | 2562      | [최댓값](https://www.acmicpc.net/problem/2562)        | ✅        |
 | 10872     | [팩토리얼](https://www.acmicpc.net/problem/10872)     | ✅        |
 | 1037      | [약수](https://www.acmicpc.net/problem/1037)          | ✅        |
